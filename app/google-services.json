@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081611615739",
+    "project_id": "alert-tiger-381109",
+    "storage_bucket": "alert-tiger-381109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081611615739:android:f7c826efe05ca49d145f5e",
+        "android_client_info": {
+          "package_name": "com.example.lab_8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeLHGlN73Rna7SQ9DTDwzNklUkRTiOoB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
